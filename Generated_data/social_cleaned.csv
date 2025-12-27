@@ -1,0 +1,8 @@
+"post_id","platform","campaign_id","post_date","post_text","likes","comments","shares","clicks","reach","engagement_rate","saves","post_date_only","total_engagement","channel"
+"POST001","Facebook","CMP003",2024-10-08 10:30:00,"New collection just dropped! Check out our latest styles 👟✨",5420,234,156,4500,180000,3.21,0,2024-10-08,5810,"Facebook"
+"POST002","Facebook","CMP003",2024-10-12 14:15:00,"Weekend sale alert! 25% off on selected items",3890,167,89,3200,145000,2.86,0,2024-10-12,4146,"Facebook"
+"POST003","Instagram","CMP004",2024-10-10 09:00:00,"Style inspo for your next run 🏃‍♀️ #RunningShoes #Fitness",8920,445,0,3040,95000,9.86,567,2024-10-10,9932,"Instagram"
+"POST004","Instagram","CMP004",2024-10-14 16:45:00,"Behind the scenes with our athletes 💪",7234,312,0,2450,88000,8.57,423,2024-10-14,7969,"Instagram"
+"POST005","Twitter","CMP009",2024-10-22 11:20:00,"FLASH SALE! Next 2 hours only. Use code FLASH25 🔥",2156,89,234,2464,88000,2.82,0,2024-10-22,2479,"Twitter"
+"POST006","Twitter","CMP009",2024-10-23 13:30:00,"Last chance! Flash sale ends tonight 🎯",1678,67,178,1980,72000,2.67,0,2024-10-23,1923,"Twitter"
+"POST007","LinkedIn","CMP008",2024-10-20 08:00:00,"How we're revolutionizing workplace wellness programs",456,78,123,1225,35000,1.88,0,2024-10-20,657,"LinkedIn"

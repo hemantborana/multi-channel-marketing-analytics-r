@@ -1,0 +1,11 @@
+"campaign_id","campaign_name","channel","conversions","efficiency","status","roas"
+"CMP001","Summer Sale Email Blast","Email",125,133.689839572193,"Overperforming",22.5
+"CMP002","Google Search - Running Shoes","Google Ads",200,213.903743315508,"Overperforming",7.11
+"CMP003","Facebook Brand Awareness","Facebook",90,96.2566844919786,"Normal",4.28
+"CMP004","Instagram Influencer Collab","Instagram",116,124.064171122995,"Overperforming",8.41
+"CMP005","Display Network Retargeting","Display",16,17.1122994652406,"Underperforming",1.05
+"CMP006","October Newsletter Email","Email",97,103.743315508021,"Normal",22.31
+"CMP007","YouTube Pre-roll Ads","YouTube",68,72.7272727272727,"Underperforming",2.8
+"CMP008","LinkedIn B2B Campaign","LinkedIn",39,41.7112299465241,"Underperforming",3.14
+"CMP009","Twitter Flash Sale","Twitter",69,73.7967914438503,"Underperforming",7.16
+"CMP010","Google Shopping Feed","Google Ads",222,237.433155080214,"Overperforming",8.22
